@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Shell, python, c,java , troubleshooting
 - 💞️ I’m looking to collaborate with another person on the projet concerning the scriping language (python,bash), network security , configuration of networking 
 - 📫 How to reach me:
-email: enamabinong@ofty.fr
+email: enamabinong@gmail.com
 
 <!---
 EXSE3/EXSE3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
