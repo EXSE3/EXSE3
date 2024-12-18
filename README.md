@@ -23,7 +23,7 @@ I am a dedicated DevOps engineer, deeply immersed in cloud technologies, and aut
 - **CI/CD**: GitLab CI/CD (https://gitlab.com/EXSE3)
 - **GitOps**: ArgoCD , Helm, eks
 - **Configuration Management**: Ansible, Terraform
-- **Monitoring**: Prometheus, Grafana
+- **Monitoring**: Prometheus, Grafana , Nagios
 - **Scripting**: Bash
 - **Version Control**: Git, GitHub
 - **OS**: Linux (Ubuntu and Debian)
