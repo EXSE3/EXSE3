@@ -130,9 +130,5 @@ I am a dedicated DevOps engineer, deeply immersed in cloud technologies, and aut
 
 
 
-## Lists
-* [Top GitHub Users By Public Contributions](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/cameroon.md)
-* [Top GitHub Users By Total Contributions in Cameroon](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/cameroon.md)
-* [Top GitHub Users By Followers in Cameroon](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/cameroon.md)
   
 
