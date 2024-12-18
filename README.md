@@ -1,26 +1,16 @@
-- 👋 Hi, I’m @EXSE3
-- 👀 I’m interested in DevOps, SysOps, Ops Linux
-- 🌱 I’m currently learning Shell, helm , argocd, prometheus and graphana, Linux, Open Source, troubleshooting
-- 💞️ I’m looking to collaborate with another person on the projet concerning the scriping language (bash), network security , configuration of networking , pipeline CI/CD (https://gitlab.com/EXSE3)
-- 📫 How to reach me:
-email: enamabinong@gmail.com
 
-<!---
-EXSE3/EXSE3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Hey There! I'm Frédérique Françoise 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=H3c7o42&label=Profile%20views&color=0e75b6&style=flat" alt="H3c7o4" /> </p>
 
 ## DevOps Engineer | Cloud & IaC Enthusiast
 
- ### Welcome to My GitHub Profile!
+ ### 👀 Welcome to My GitHub Profile!
 
 I am a dedicated DevOps engineer, deeply immersed in cloud technologies, and automation. My passion lies in crafting scalable and robust systems that elevate teams to deliver software with speed and precision. Explore this space to discover a glimpse of my projects, contributions, and open-source endeavors.  
 <br />
 
-### Tech Stack
+### 🌱 Tech Stack
 [![GitHub mhmdio](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![GitHub mhmdio](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://terraform.io)
 [![GitHub mhmdio](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
@@ -64,9 +54,6 @@ I am a dedicated DevOps engineer, deeply immersed in cloud technologies, and aut
 
 #### Languages:
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
 
 <br />
@@ -83,7 +70,7 @@ I am a dedicated DevOps engineer, deeply immersed in cloud technologies, and aut
 
 
 
-## Social Links
+## 💞️ Social Links
 
 
 </a>
@@ -109,5 +96,8 @@ I am a dedicated DevOps engineer, deeply immersed in cloud technologies, and aut
 
 
 
-  
+  <!---
+EXSE3/EXSE3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
