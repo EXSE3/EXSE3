@@ -81,33 +81,13 @@ I am a dedicated DevOps engineer, deeply immersed in cloud technologies, and aut
 <br/>
 <br/>
 
-## I also do Data Science:
-<img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-<img align="left" alt="Numpy" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
-<img align="left" alt="Pandas" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
-<img align="left" alt="Matplotlib" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
-<img align="left" alt="Seaborn" width="100px" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" />
-<img align="left" alt="Scipy" width="100px" src="https://www.fullstackpython.com/img/logos/scipy.png" />
-<img align="left" alt="Scikit learn" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
-<br/ >
-<br/>
-<br/>
-<br/>
 
 
 ## Social Links
 
-<a href="https://www.instagram.com/HectorVladitok/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+
 </a>
-<a href="https://www.discord.com/channels/@Hector BenMyriam#0823">
-    <img src="https://skillicons.dev/icons?i=discord" />
-</a>
-<a href="https://www.twitter.com/ItokVlad">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-<a href="https://www.linkedin.com/in/hector-steve-itok-1a3829182/">
+<a href="https://www.linkedin.com/in/frédérique-françoise-enama-binong-40b83512a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <br/>
@@ -115,7 +95,6 @@ I am a dedicated DevOps engineer, deeply immersed in cloud technologies, and aut
 
 ## Software I use
 
-![Inkscape](https://img.shields.io/badge/Inkscape-0078d7.svg?style=for-the-badge&logo=inkscape&logoColor=white)
 ![GNU Emacs](https://img.shields.io/badge/VI%20%26%20Vim-A23C9A.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
