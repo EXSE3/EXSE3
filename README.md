@@ -40,7 +40,7 @@ I am a dedicated DevOps engineer, deeply immersed in cloud technologies, and aut
 
 ### 📫 How to reach me
 
-- email: [email](mailto:enamabinong@gmail.com) :)
+- [email](mailto:enamabinong@gmail.com) :)
 
 ### 🏆 Training and Certifications
 
